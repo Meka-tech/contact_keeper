@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Nnaemeka:LastSonOfCy12@contactkeeper.vwwsvrs.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
